@@ -2,10 +2,13 @@ Name: Traveller
 
 Is a clone of: Nuclear Throne
 
-Genre: Roguelike
+Genre: Roguelike, Top-down shooter, Bullethell
 
 Gameplay: 
 Player goes through 5 levels, each with 3 sublevels and has to fight through every level to find an exit.
+also game is a bullethell
+also if you die you start from the beginning
+also game is randomized, maybe.
 
 
 Plot:
