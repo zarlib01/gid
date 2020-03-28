@@ -8,7 +8,7 @@ Gameplay:
 Player goes through 5 levels, each with 3 sublevels and has to fight through every level to find an exit.
 
 
-Synopsis:
+Plot:
 You are Traveller, your father passed away recently.
 Along with his death, went with his dream.
 
@@ -24,5 +24,4 @@ Travel to the moon.
 
 Traveller.
 
-Plot:
 Game Feel:
