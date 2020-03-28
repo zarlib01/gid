@@ -25,3 +25,4 @@ Travel to the moon.
 Traveller.
 
 Game Feel:
+Player should feel powerful, while feeling like every little mistake could lead to death.
