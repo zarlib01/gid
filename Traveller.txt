@@ -1,1 +1,24 @@
+Name: Traveller
 
+Is a clone of: Nuclear Throne
+
+Genre: Roguelike
+
+Gameplay: 
+Player goes through 5 levels, each with 3 sublevels and has to fight through every level to find an exit.
+
+
+Synopsis:
+You are Traveller, your father passed away recently.
+Along with his death, went with his dream.
+
+The dream of going to the moon.
+
+Suffering in a cold bleak world, filling to the brim with corruption.
+Your life, meaningless.
+
+Trying to regain hope and meaning in your life again, you strive to fight for something.
+
+
+Plot:
+Game Feel:
