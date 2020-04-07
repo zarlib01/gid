@@ -1,7 +1,12 @@
-base for text i guess
-
 Name:
-Gameplay:
-Synopsis:
+
+Is a clone of:
+
+Genre:
+
+Gameplay: 
+
 Plot:
+
 Game Feel:
+
