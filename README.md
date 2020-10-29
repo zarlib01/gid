@@ -1,6 +1,3 @@
-# GREAT IDEAS ;]
+# GID
+just a random test
 
-great ideas by me, dastrukar
-
-or maybe they aren't great
-up to you to decide ;[
